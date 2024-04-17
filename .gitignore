@@ -17,4 +17,4 @@ buildNumber.properties
 .classpath
 
 #settings
-.properties
+application.properties
